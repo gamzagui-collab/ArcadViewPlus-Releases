@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "channel": "internal",
+  "packageName": "com.guisarc.arcadview.procad.dev",
+  "latestVersionName": "0.8.5",
+  "latestVersionCode": 36,
+  "releasePageUrl": "https://github.com/gamzagui-collab/ArcadViewPlus-Internal/releases/tag/v0.8.5-internal.1",
+  "releaseNotes": [
+    "앱 정보에서 실제 버전과 빌드 번호를 확인할 수 있습니다.",
+    "새 버전이 있으면 GitHub 브라우저 다운로드로 연결합니다."
+  ],
+  "publishedAt": "2026-11-23T09:00:31Z",
+  "apkSha256": "2E185DBB7F075DB51AD393055EA1C3E6BDD989195BE68799A7A478685F566150"
+}
