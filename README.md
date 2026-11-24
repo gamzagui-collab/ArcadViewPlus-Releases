@@ -2,9 +2,9 @@
 
 Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표시할 수 있습니다.
 
-## [↓ Android 설치 파일(APK) 바로 다운로드 · v0.9.4](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.4/ArcadViewPlus-0.9.4.apk)
+## [↓ Android 설치 파일(APK) 바로 다운로드 · v0.9.5](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.5/ArcadViewPlus-0.9.5.apk)
 
-- **설치 파일** · ArcadViewPlus-0.9.4.apk · 약 96 MB
+- **설치 파일** · ArcadViewPlus-0.9.5.apk · 약 96 MB
 - **설치 환경** · Android 6.0 이상 · 64비트(arm64-v8a, x86_64) · GitHub 로그인 없이 다운로드
 
 [항상 최신 릴리스와 변경 사항 보기](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/latest)
@@ -12,7 +12,7 @@ Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표�
 ## 처음 설치하기
 
 1. Android 휴대폰에서 위 **Android 설치 파일(APK) 바로 다운로드**를 누릅니다.
-2. 다운로드 알림이나 **다운로드** 폴더에서 **ArcadViewPlus-0.9.4.apk**를 엽니다.
+2. 다운로드 알림이나 **다운로드** 폴더에서 **ArcadViewPlus-0.9.5.apk**를 엽니다.
 3. Android가 설치 권한을 요청하면 **설정 → 이 출처의 앱 설치 허용**을 선택하고 설치 화면으로 돌아옵니다. 메뉴 이름은 기기마다 다를 수 있습니다. [Android 설치 권한 안내](https://support.google.com/pixelphone/answer/7391672?hl=ko)
 4. **설치**를 누른 뒤 **열기**를 누릅니다.
 
@@ -45,9 +45,12 @@ Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표�
 
 도면 하단의 **선택**을 누릅니다. 도면에서 시작점을 약 0.25초 누른 상태로 원하는 범위 끝까지 끌고 손을 떼세요. 선이나 객체의 일부가 사각형에 닿으면 선택됩니다. 왼쪽이나 오른쪽 어느 방향으로 끌어도 같은 규칙이 적용됩니다. **선택 해제**로 초기화할 수 있습니다.
 
-짧게 눌러 개별 객체를 선택하고, 누르자마자 끌어 화면을 이동합니다. 이동·삭제는 개별 객체에 적용됩니다.
+짧게 눌러 개별 객체를 선택하고, 누르자마자 끌어 화면을 이동합니다. 범위를 선택한 뒤 **삭제**를 누르면 편집 가능한 객체를 한꺼번에 삭제할 수 있습니다. 왼쪽 **실행 취소** 한 번으로 삭제한 묶음을 복원합니다. 개별 객체의 선 굵기는 왼쪽 슬라이더를 탭하거나 끌어서 조절합니다.
 
-<img src="docs/media/window-selection.png" width="270" alt="예제 도면에서 사각형에 일부만 걸친 대각선이 선택된 화면">
+<p>
+  <img src="docs/media/window-selection.png" width="270" alt="예제 도면에서 사각형에 일부만 걸친 대각선이 선택된 화면">
+  <img src="docs/media/bulk-delete.png" width="270" alt="예제 도면에서 범위 선택한 객체와 활성화된 삭제 버튼">
+</p>
 
 ## 이용 범위와 라이선스
 
@@ -56,5 +59,5 @@ Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표�
 GUI's Arc Industry가 Arcad View+를 배포합니다. 앱의 **앱 정보 → 오픈소스 및 라이선스**에서 구성요소별 고지를 확인할 수 있습니다.
 
 - [제3자 구성요소 및 라이선스 고지](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/latest/download/THIRD-PARTY-NOTICES.zip)
-- [GNU LibreDWG 대응 소스 및 GPL 라이선스 · v0.9.4](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.4/GNU-LibreDWG-Corresponding-Source-0.14.9167.zip)
-- [배포 파일 SHA-256 확인 · v0.9.4](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.4/SHA256SUMS.txt)
+- [GNU LibreDWG 대응 소스 및 GPL 라이선스 · v0.9.5](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.5/GNU-LibreDWG-Corresponding-Source-0.14.9167.zip)
+- [배포 파일 SHA-256 확인 · v0.9.5](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.5/SHA256SUMS.txt)
