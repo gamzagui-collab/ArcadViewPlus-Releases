@@ -2,9 +2,9 @@
 
 Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표시할 수 있습니다.
 
-## [↓ Android 설치 파일(APK) 바로 다운로드 · v0.9.24](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.24/ArcadViewPlus-0.9.24.apk)
+## [↓ Android 설치 파일(APK) 바로 다운로드 · v0.9.25](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.25/ArcadViewPlus-0.9.25.apk)
 
-- **설치 파일** · ArcadViewPlus-0.9.24.apk · 약 96 MB
+- **설치 파일** · ArcadViewPlus-0.9.25.apk · 약 96 MB
 - **설치 환경** · Android 6.0 이상 · 64비트(arm64-v8a, x86_64) · GitHub 로그인 없이 다운로드
 
 [항상 최신 릴리스와 변경 사항 보기](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/latest)
@@ -12,7 +12,7 @@ Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표�
 ## 처음 설치하기
 
 1. Android 휴대폰에서 위 **Android 설치 파일(APK) 바로 다운로드**를 누릅니다.
-2. 다운로드 알림이나 **다운로드** 폴더에서 **ArcadViewPlus-0.9.24.apk**를 엽니다.
+2. 다운로드 알림이나 **다운로드** 폴더에서 **ArcadViewPlus-0.9.25.apk**를 엽니다.
 3. Android가 설치 권한을 요청하면 **설정 → 이 출처의 앱 설치 허용**을 선택하고 설치 화면으로 돌아옵니다. 메뉴 이름은 기기마다 다를 수 있습니다. [Android 설치 권한 안내](https://support.google.com/pixelphone/answer/7391672?hl=ko)
 4. **설치**를 누른 뒤 **열기**를 누릅니다.
 
@@ -54,10 +54,10 @@ Android에서 DWG·DXF 도면을 열고, 거리를 재거나 도면 위에 표�
 
 ## 이용 범위와 라이선스
 
-기본 도면 보기와 정렬 거리·정렬 치수는 무료입니다. 유료 도구는 로그인과 해당 이용권이 필요합니다.
+기본 도면 보기와 정렬 거리·정렬 치수는 무료입니다. 토큰형은 지원 유료 도구 완료 1건당 1토큰을 사용하며, PRO 권한은 토큰을 차감하지 않습니다. 현재 운영자 초대로 이용권을 연결하며, 앱 내 구매와 자동 갱신은 지원하지 않습니다.
 
-GUI's Arc Industry가 Arcad View+를 배포합니다. 홈 오른쪽 위 **ⓘ**에서 이용권을 연결하고 **오픈소스 및 라이선스**에서 구성요소별 고지를 확인할 수 있습니다.
+GUI's Arc Industry가 Arcad View+를 배포합니다. 홈 오른쪽 위 **ⓘ → 이용권 → 초대 코드로 연결**에서 기기 등록 키를 복사해 운영자에게 전달하고 발급받은 초대 코드를 입력하세요. **ⓘ → 오픈소스 및 라이선스**에서는 구성요소별 고지를 확인할 수 있습니다.
 
 - [제3자 구성요소 및 라이선스 고지](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/latest/download/THIRD-PARTY-NOTICES.zip)
-- [GNU LibreDWG 대응 소스 및 GPL 라이선스 · v0.9.24](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.24/GNU-LibreDWG-Corresponding-Source-0.14.9167.zip)
-- [배포 파일 SHA-256 확인 · v0.9.24](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.24/SHA256SUMS.txt)
+- [GNU LibreDWG 대응 소스 및 GPL 라이선스 · v0.9.25](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.25/GNU-LibreDWG-Corresponding-Source-0.14.9167.zip)
+- [배포 파일 SHA-256 확인 · v0.9.25](https://github.com/gamzagui-collab/ArcadViewPlus-Releases/releases/download/v0.9.25/SHA256SUMS.txt)
